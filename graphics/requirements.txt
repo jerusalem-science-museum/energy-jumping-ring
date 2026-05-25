@@ -1,0 +1,16 @@
+# ==============================================================================
+# Requirements for Jerusalem Science Museum - Energy & Jumping Ring Exhibit
+# ==============================================================================
+
+# Hardware Communication & Sensor Interfacing
+pyserial>=3.5            # Communication with Arduino/Microcontrollers for coil triggering
+
+# User Interface, Audio & Media Display
+pygame>=2.5.2            # Main museum kiosk loop, fullscreen visuals, and sound effects
+
+# Computer Vision & Sensor Analytics (If height/ring detection is used via camera)
+opencv-python>=4.8.0     # Frame capturing and real-time object tracking
+numpy>=1.26.0            # Fast numerical array manipulation for video/sensor frames
+
+# System Utilities
+python-dotenv>=1.0.1     # Environment configuration management

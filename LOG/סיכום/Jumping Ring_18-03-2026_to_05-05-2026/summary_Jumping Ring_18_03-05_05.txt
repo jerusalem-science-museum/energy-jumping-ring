@@ -1,0 +1,21 @@
+Summary from 2026-03-18 00:00:00 to 2026-05-05 23:59:59 (49 days)
+Log data time range: 2026-03-18 09:43:47 to 2026-05-05 08:26:32 (48 days)
+
+Total Ring jumped!: 2909
+Total english language: 804
+Total hebrew language: 789
+Total arabic language: 799
+Total language changes: 2392
+
+Average Ring jumped! per day: 59.37
+Average english language per day: 16.41
+Average hebrew language per day: 16.10
+Average arabic language per day: 16.31
+Average total language changes per day: 48.82
+
+Good runs: 2909 / 5301 (54.88%)
+
+---
+UI restarts between 09:30 and 18:00: 5
+Arduino disconnections between 09:30 and 18:00: 0
+Error parsing data: 0
